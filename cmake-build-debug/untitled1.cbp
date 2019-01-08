@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/newbuntu/Desktop/FlightGear/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/newbuntu/Desktop/FlightGear/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled1">
+				<Option output="/home/newbuntu/Desktop/FlightGear/cmake-build-debug/untitled1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/newbuntu/Desktop/FlightGear/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled1/fast">
+				<Option output="/home/newbuntu/Desktop/FlightGear/cmake-build-debug/untitled1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/newbuntu/Desktop/FlightGear/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/newbuntu/Desktop/FlightGear/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/newbuntu/Desktop/FlightGear/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/BinaryExpression.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/BinaryExpression.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/ChangeCommand.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/ChangeCommand.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Command.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/CommandExpression.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/CommandExpression.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/ConditionParser.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/ConditionParser.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/ConnectCommand.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/ConnectCommand.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Div.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Div.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/EnterCommand.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/EnterCommand.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Expression.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/GlobalTables.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/GlobalTables.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/IfCommand.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/IfCommand.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Lexer.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Lexer.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/LoopCommand.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/LoopCommand.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Minus.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Minus.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Mult.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Mult.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Neg.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Neg.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Num.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Num.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/OpenServerCommand.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/OpenServerCommand.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Parser.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Parser.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Plus.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Plus.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/PrintCommand.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/PrintCommand.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/ShuntingYard.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/ShuntingYard.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/SleepCommand.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/SleepCommand.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/UnaryExpression.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/UnaryExpression.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Var.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/Var.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/VarCommand.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/VarCommand.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/main.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/newbuntu/Desktop/FlightGear/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

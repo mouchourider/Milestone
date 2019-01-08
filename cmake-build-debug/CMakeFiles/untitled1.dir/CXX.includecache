@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/newbuntu/Desktop/FlightGear/GlobalTables.cpp
+GlobalTables.h
+/home/newbuntu/Desktop/FlightGear/GlobalTables.h
+iostream
+-
+
+/home/newbuntu/Desktop/FlightGear/GlobalTables.h
+map
+-
+string
+-
+vector
+-
+
